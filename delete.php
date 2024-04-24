@@ -1,3 +1,4 @@
+//code for deleting a product form our database
 <?php
 require 'database.php';
 
